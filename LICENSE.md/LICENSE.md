@@ -1,6 +1,6 @@
-Package: org.expertmedia.membershipperiods
-Copyright (C) 2018, FIXME <FIXME>
-Licensed under the GNU Affero Public License 3.0 (below).
+# Package: org.expertmedia.membershipperiods
+# Copyright (C) 2018, FIXME <FIXME>
+# Licensed under the GNU Affero Public License 3.0 (below).
 
 -------------------------------------------------------------------------------
 
